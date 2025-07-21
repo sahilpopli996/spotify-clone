@@ -139,12 +139,12 @@ export const songsData = [
         desc:"Put a smile on your face with these happy tunes",
         duration:"2:32"
     },
-    {
+ {
         id:3,
-        name: "Paani Maar(Diss track)",
-        image: ranveer,
+        name: "Song Four",
+        image: img6,
         file:song1,
-        desc:"written,compostion:SAHIL rap,abusing:SANYAM",
+        desc:"Put a smile on your face with these happy tunes",
         duration:"2:50"
     },
     {
